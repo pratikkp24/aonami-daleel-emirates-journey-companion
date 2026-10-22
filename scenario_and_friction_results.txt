@@ -1,0 +1,5 @@
+200 employees, 1418 journey events, 176 service requests, 62 pulse responses
+26 journey steps, 9 named team owners, 12 policies with 62 sections
+
+Friction: precision 100.0%, recall 100.0%, root cause correct 56/56, 121 ms
+Companion scenarios: 22/22 pass
