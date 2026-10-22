@@ -4,6 +4,8 @@
 
 A companion that knows where each new or moving employee is in their journey, answers policy questions with the source, starts routine requests and routes issues to a named person before they escalate.
 
+**Demo video (under 3 minutes):** https://www.loom.com/share/bd9cc3d9ea86420a928adcb6f8f4e39c
+
 **Live prototype:** https://aonami-daleel.vercel.app. It is hosted, needs no install, and runs entirely in your browser with no cloud AI. Press **Guided demo** for a walk-through.
 
 ## Results on our held-out test set
